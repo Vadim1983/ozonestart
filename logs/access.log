@@ -25,3 +25,9 @@
 127.0.0.1 - - [14/Aug/2019:16:10:43 +0300] "GET /img/logo.png HTTP/1.1" 200 1901
 127.0.0.1 - - [14/Aug/2019:16:10:43 +0300] "GET /fonts/GT-Eesti-Pro-Text-Bold.OTF HTTP/1.1" 200 107532
 127.0.0.1 - - [14/Aug/2019:16:10:43 +0300] "GET /fonts/GT-Eesti-Pro-Text-Regular.OTF HTTP/1.1" 200 100964
+127.0.0.1 - - [14/Aug/2019:16:26:28 +0300] "GET /style/style.css HTTP/1.1" 200 9998
+127.0.0.1 - - [14/Aug/2019:16:26:30 +0300] "GET /favicon/favicon-16x16.png HTTP/1.1" 200 925
+127.0.0.1 - - [14/Aug/2019:16:26:30 +0300] "GET /favicon/apple-touch-icon.png HTTP/1.1" 200 4572
+127.0.0.1 - - [14/Aug/2019:16:26:31 +0300] "GET /fonts/GT-Eesti-Pro-Text-Regular.OTF HTTP/1.1" 200 100964
+127.0.0.1 - - [14/Aug/2019:16:26:31 +0300] "GET /img/logo.png HTTP/1.1" 200 1901
+127.0.0.1 - - [14/Aug/2019:16:26:31 +0300] "GET /fonts/GT-Eesti-Pro-Text-Bold.OTF HTTP/1.1" 200 107532
