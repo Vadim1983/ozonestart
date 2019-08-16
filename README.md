@@ -1,2 +1,2 @@
 # ozonestart
-how to make internet shop
+GLO Academy O-Zone workshop JS. 
